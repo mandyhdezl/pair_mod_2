@@ -49,7 +49,8 @@ CREATE TABLE facturas(
         REFERENCES empleados (id_empleado)
 );
 		
-		
+	SELECT *
+		FROM zapatillas;
     
     
     
